@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi, eu sou a Naiara
 
-<!--
-**NaiaraSantoss/NaiaraSantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Sou voluntária em um projeto de Processamento de Linguagem Natural.
+- 🌱 Estudando Python and Java.
+- 💬 Entre em contato atráves do email: naiara.santos@live.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaiaraSantoss&layout=compact&show_icons=true&theme=radical" />
+</a>

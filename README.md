@@ -2,8 +2,8 @@
 
 
 - 🔭 Sou voluntária em um projeto de Processamento de Linguagem Natural.
-- 🌱 Estudando Python and Java.
-- 💬 Entre em contato atráves do email: naiara.santos@live.com
+- 🌱 Estudando Python e Java.
+- 💬 Entre em contato através do email: naiara.santos@live.com
 
 
 

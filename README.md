@@ -1,9 +1,9 @@
 ### Oi, eu sou a Naiara
 
 
-- 🔭 Sou voluntária em um projeto de Processamento de Linguagem Natural.
-- 🌱 Estudando Python e Java.
-- 💬 Entre em contato através do email: naiara.santos@live.com
+- 🔭 Apaixonada por Processamento de Linguagem Natural.
+- 🌱 Estudando Java.
+
 
 
 
